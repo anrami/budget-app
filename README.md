@@ -1,4 +1,7 @@
 # budget-app
+![Screenshot 2022-07-17 at 14-15-56 React App](https://user-images.githubusercontent.com/26489854/179425834-0e8e2869-3e35-4534-bfeb-c8965ef8ab83.png)
+![Screenshot 2022-07-17 at 14-16-06 React App](https://user-images.githubusercontent.com/26489854/179425838-90b7097a-282f-4643-aaea-b24d50c586cd.png)
+![Screenshot 2022-07-17 at 14-16-16 React App](https://user-images.githubusercontent.com/26489854/179425840-a75dd488-42f8-47ef-83d7-13113a58d1bd.png)
 
 Available Scripts
 
